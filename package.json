@@ -1,6 +1,6 @@
 {
   "name": "atom-build-jpm",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A Firefox Add-on builder for Atom.",
   "repository": "https://github.com/bwinton/atom-build-jpm",
   "license": "MIT",
